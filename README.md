@@ -2,7 +2,7 @@
 
 ## Author
 
-[
+[BENARD KIPROTICH BETT]
 
 ## Description
 
@@ -72,7 +72,7 @@ To get the code..
 
 ## Contact Information 
 
-If you have any question or contributions, please email me at [vitaliskirui1@gmail.com]
+If you have any question or contributions, please email me at [kiprotichbernard780@gmail.com]
 
 ## License
 
