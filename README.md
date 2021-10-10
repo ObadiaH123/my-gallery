@@ -2,7 +2,7 @@
 
 ## Author
 
-[**Kipyegon Kirui Vitalis**](https://github.com/Vitalis-Kirui)
+[
 
 ## Description
 
@@ -16,9 +16,7 @@ A photo album  web application made using Django. It enables a user to view phot
 
 [Admin Dashboard Login](https://""/admin/)  with credentials
 
-    username : `vitalis`
-
-    password : `moringa#vitz`
+   
 
 ## User Story
 
@@ -43,7 +41,7 @@ You need to have the following to have this project working on your local system
 To get the code..
 
 1. Clone the repository:
- `git clone  https://github.com/Vitalis-Kirui/My-Album.git`
+ ``
 
 2. Move to the folder and install requirements
  ` My-Album`
@@ -80,4 +78,3 @@ If you have any question or contributions, please email me at [vitaliskirui1@gma
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
-Copyright © 2021  [KIPYEGON KIRUI VITALIS](https://github.com/Vitalis-Kirui)
