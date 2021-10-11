@@ -2,7 +2,7 @@
 
 ## Author
 
-[BENARD KIPROTICH BETT]
+ [BENARD KIPROTICH BETT]
 
 ## Description
 
@@ -41,7 +41,7 @@ You need to have the following to have this project working on your local system
 To get the code..
 
 1. Clone the repository:
- ``
+ `git clone https://github.com/ObadiaH123/my-gallery.git`
 
 2. Move to the folder and install requirements
  ` My-Album`
