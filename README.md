@@ -1,4 +1,4 @@
-# MY ALBUM
+# MY GALLERY
 
 ## Author
 
@@ -6,7 +6,7 @@
 
 ## Description
 
-A photo album  web application made using Django. It enables a user to view photos of their interest. Photos are categorized basing on categories created when posting the images. One can also see view photos in terms of location they were taken.
+User can view the photos of her choice click on one photo expand it and view details of the photo. User can search for different category ot photos They can also copy the link to a photo to share with others..
 
 ## Live Link
 
